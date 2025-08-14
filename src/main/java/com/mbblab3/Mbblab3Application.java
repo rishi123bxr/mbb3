@@ -8,7 +8,7 @@ public class Mbblab3Application {
 
 	public static void main(String[] args) {
 		
-		System.out.println("rishi -- raj");
+		System.out.println("rishi -- raj --- Bnagalore");
 		SpringApplication.run(Mbblab3Application.class, args);
 	}
 
